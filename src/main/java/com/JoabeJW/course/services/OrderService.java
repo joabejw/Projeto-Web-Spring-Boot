@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.JoabeJW.course.entities.Order;
-import com.JoabeJW.course.entities.User;
 import com.JoabeJW.course.repositories.OrderRepository;
 
 @Service
